@@ -10,5 +10,9 @@
 
 ## How to use Project
 
+- Download or clone the repository Website : 
 
-- Download or clone the repository
+```
+https://manthanugemuge.github.io/SimpleCalculator/
+```
+Run Directly - https://manthanugemuge.github.io/SimpleCalculator/
