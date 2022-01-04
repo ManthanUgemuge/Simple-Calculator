@@ -13,6 +13,6 @@
 - Download or clone the repository Website : 
 
 ```
-https://manthanugemuge.github.io/SimpleCalculator/
+https://github.com/ManthanUgemuge/SimpleCalculator.git
 ```
 Run Directly - https://manthanugemuge.github.io/SimpleCalculator/
