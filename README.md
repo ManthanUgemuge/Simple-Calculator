@@ -15,4 +15,4 @@
 ```
 https://github.com/ManthanUgemuge/SimpleCalculator.git
 ```
-Run Directly - https://manthanugemuge.github.io/SimpleCalculator/
+- Run Directly - https://manthanugemuge.github.io/SimpleCalculator/
