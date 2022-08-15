@@ -14,7 +14,7 @@
 ```
 https://github.com/ManthanUgemuge/Simple-Calculator.git
 ```
-- Run Directly - [Live](https://manthanugemuge.github.io/SimpleCalculator/)//[Download](https://github.com/ManthanUgemuge/SimpleCalculator/archive/refs/heads/main.zip)
+- Run Directly - [Live](https://manthanugemuge.github.io/Simple-Calculator/)//[Download](https://github.com/ManthanUgemuge/Simple-Calculator/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
