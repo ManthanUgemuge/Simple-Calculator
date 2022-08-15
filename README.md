@@ -1,5 +1,5 @@
 # SimpleCalculator
- Simple Calculator with Help of Basic HTML and CSS using Onclick Event of HTML DOM
+ Simple Calculator with Help of Basic HTML and CSS using Onclick Event of HTML DOM.
 
 
 ## Tech Stacks Used
@@ -12,7 +12,7 @@
 - Download or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/SimpleCalculator.git
+https://github.com/ManthanUgemuge/Simple-Calculator.git
 ```
 - Run Directly - [Live](https://manthanugemuge.github.io/SimpleCalculator/)//[Download](https://github.com/ManthanUgemuge/SimpleCalculator/archive/refs/heads/main.zip)
 
