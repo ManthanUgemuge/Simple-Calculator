@@ -1,4 +1,4 @@
-# SimpleCalculator
+# Simple Calculator
  Simple Calculator with Help of Basic HTML and CSS using Onclick Event of HTML DOM.
  
 ## Tech Stacks Used
