@@ -10,7 +10,7 @@
 - Download or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/Simple-Calculator.git
+https://github.com/manthanugemuge/simple-calculator.git
 ```
 
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/Simple-Calculator/archive/refs/heads/main.zip)
